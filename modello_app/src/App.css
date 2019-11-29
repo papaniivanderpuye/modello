@@ -20,3 +20,41 @@
 .App-link {
   color: #09d3ac;
 }
+
+.text-box {
+  width: 500px;
+  height: 500px;
+  margin-top: 32px;
+  float: left;
+  font-size: 15px;
+}
+
+.replacement-input{
+  float: left;
+text-align: justify;
+height: 276px;
+margin-top: 77px;
+}
+
+.replacement-input-text {
+  margin-bottom: 20px;
+}
+
+.replacement-input-label{
+  margin-bottom: 10px;
+}
+
+.title{
+  margin-top: 102px;
+  margin-bottom: -24px;
+}
+
+body{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  height: 100vh;
+  width: 100vw;
+  margin:0;
+  background:#f5f0ff;
+}
